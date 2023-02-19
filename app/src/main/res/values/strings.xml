@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">pr8</string>
+    <string name="menuitem3">popup menu item 3</string>
+    <string name="menuitem4">Popup menu item 4</string>
+    <string name="menuitem6">Popup menu item 6</string>
+    <string name="menuitem1">popup menu item 1</string>
+    <string name="menuitem2">popup menu item 2</string>
+    <string name="submenu">submenu</string>
+    <string name="menuitem5">Popup menu item 5</string>
+    <string name="textView_Text">Shalom</string>
+    <string name="Button_Text">Knopka</string>
+    <string name="image_main">image_Main</string>
+</resources>
